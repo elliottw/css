@@ -1,0 +1,53 @@
+  body {
+  	background: white;
+  	font-size: 8pt;
+	margin-left: 10%;
+	margin-right: 10%;
+	font-family: Helvetica, sans-serif;
+  	}
+	
+p, table, ul, ol {
+	text-align:left; 
+	line-height:150%; 
+	margin-left:25%;
+	color:#000000; 
+	font-weight:200; 
+	
+}
+
+h1 {
+	font-size: 2em; 
+	border-top: 1px double #000;
+	text-align:left; 
+	font-weight:100; 
+	line-height:140%; 
+	text-transform: uppercase;
+	
+	padding-top:5px;
+	margin-top:100pt;
+}
+h2,h3,h4 {
+	font-size:.8em;
+	font-weight:400; 
+	text-transform: uppercase;
+	padding-top:5px;
+}
+h2 {
+	text-align:left; 
+	border-top: 1px solid #666;
+	margin-top:25pt;
+}
+
+h3 {
+	text-transform: uppercase;
+	border-top: 1px dotted #000;
+	margin-left:25%;
+}
+
+h4 {
+	margin-left:25%;
+}
+
+ul, ol {
+    padding: 0;
+}
